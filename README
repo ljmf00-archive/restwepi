@@ -1,0 +1,23 @@
+        Web-based REST API written in PHP for Shell-Web, a web-based App
+
+WHAT IS SHELL-WEB REST API?
+
+    Shell-Web REST API is a Representational state transfer application
+    programming interface that simulate some common shell commands, written from
+    scratch by Luís Ferreira.
+
+    It has some ethical hacking, security, gathering information and useful misc
+    commands such as geoip, dig, nslookup, ping, mtr, nmap, whois, etc...
+
+    It is distributed under the GNU General Public License - see the
+    accompanying LICENSE file for more details.
+
+HOW TO INSTALL?
+
+    Shell-Web REST API has a very easy instalation. You only need a server with
+    a webservice and PHP (>=5.0) installed.
+
+    Use 'git clone git@github.com:ljmf00/restwepi.git -b api ./' command to
+    download the last version. You also need git as a dependency. If you are not
+    allowed to do this, you can download the source from the following URL:
+    https://github.com/ljmf00/restwepi/archive/master.zip .
